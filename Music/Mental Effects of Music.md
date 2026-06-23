@@ -1,4 +1,4 @@
 
 
 **External Links:**
-* [[Psychology]]
+* [[Curiosity Archive/Psychology/Psychology]]

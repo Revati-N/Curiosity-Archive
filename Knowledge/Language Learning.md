@@ -1,4 +1,4 @@
 **Languages and Exams:**
-* [[Knowledge/Languages/French]]
-* [[Knowledge/Languages/English]]
+* [[Curiosity Archive/Knowledge/Languages/French]]
+* [[Curiosity Archive/Knowledge/Languages/English]]
 * 

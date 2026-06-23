@@ -1,7 +1,7 @@
 
 
 **Lists:**
-* [[Books/Comics]]
-* [[Books/My Hero Academia]]
-* [[Books/Spy x Family]]
+* [[Curiosity Archive/Books/Comics]]
+* [[Curiosity Archive/Books/My Hero Academia]]
+* [[Curiosity Archive/Books/Spy x Family]]
 * 

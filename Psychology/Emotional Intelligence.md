@@ -2,4 +2,4 @@
 
 
 
-[[Psychology/Control]]
+[[Curiosity Archive/Psychology/Control]]

@@ -1,6 +1,6 @@
 
 
 **Lists:**
-* [[Books/Mahabharat]]
-* [[Books/Ramayana]]
+* [[Curiosity Archive/Books/God/Mahabharat]]
+* [[Curiosity Archive/Books/God/Ramayana]]
 * 
