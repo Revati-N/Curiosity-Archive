@@ -1,4 +1,6 @@
-**Date:** 15-05-2026
+---
+Date: 2026-05-15
+---
 
 It is the psychobiological phenomenon where a person’s physical or mental health improves by receiving an inactive or “dummy” treatment.
 
