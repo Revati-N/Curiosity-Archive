@@ -2,7 +2,7 @@
 Link: https://youtu.be/H14bBuluwB8?si=0AFbSRTc5SvvpAN6
 Watched on: 2024-06-24
 ---
-## Main Topics:
+## Main Idea:
 
 Grit = passion + perseverance over the long term.
 
