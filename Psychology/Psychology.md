@@ -11,4 +11,5 @@ The science and art of understanding the human mind. Why do people do what they 
 * [[Curiosity Archive/Psychology/Desirable Difficulties]]
 * [[Grit]]
 * [[Music's Effect on Mental Health]]
+* [[Curiosity Archive/Psychology/Inside the Mind of a Master Procrastinator]]
 * 

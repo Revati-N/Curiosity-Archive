@@ -2,4 +2,4 @@
 Link:
 Watched on:
 ---
-## Main Topics:
+## Main Idea:
