@@ -8,4 +8,4 @@ More than just a playlist. This is where sounds become ideas — artists worth d
 * [[Curiosity Archive/Music/Lyrical Analysis Guide]]
 * [[Curiosity Archive/Music/Vibrations]]
 * [[Curiosity Archive/Music/Song Composition]]
-* [[Curiosity Archive/Mental Effects of Music]]
+* [[Curiosity Archive/Music/Music's Effect on Mental Health]]
