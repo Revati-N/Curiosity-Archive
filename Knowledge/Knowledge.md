@@ -10,4 +10,5 @@ The catch-all for everything that doesn't fit neatly anywhere else. Raw concepts
 * [[Curiosity Archive/Knowledge/Economics]]
 * [[Curiosity Archive/Knowledge/Science]]
 * [[Curiosity Archive/Knowledge/Language Learning]]
+* [[Curiosity Archive/Knowledge/Kerosene]]
 * 
