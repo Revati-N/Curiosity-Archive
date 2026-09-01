@@ -158,9 +158,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "48b5039a3a3447ff",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +186,8 @@
   },
   "active": "a9b94dbdfd44c7b4",
   "lastOpenFiles": [
-    "Knowledge/Knowledge.md",
     "Curiosity Archive/Knowledge/Kerosene.md",
+    "Knowledge/Knowledge.md",
     "Curiosity Archive/Knowledge",
     "Curiosity Archive",
     "God and Spirituality/God and Spirituality.md",
