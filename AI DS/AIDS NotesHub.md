@@ -10,3 +10,5 @@ SORT last-updated DESC
 ## List:
 * [[What Data represents vs What it hides]]
 * [[RAG - Retrieval Augmented Generation]]
+
+Hi. Thus is the phone. And I am trying. 
