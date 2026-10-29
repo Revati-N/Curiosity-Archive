@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "489ab386e1818904",
+        "id": "0063cc5b77a28e13",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b94dbdfd44c7b4",
+            "id": "290dd5f7fb36c188",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48b5039a3a3447ff",
+  "active": "290dd5f7fb36c188",
   "lastOpenFiles": [
+    "AI DS/AIDS NotesHub.md",
     "Curiosity Archive/Knowledge/Kerosene.md",
     "Knowledge/Knowledge.md",
     "Curiosity Archive/Knowledge",
@@ -193,7 +194,6 @@
     "God and Spirituality/God and Spirituality.md",
     "God and Spirituality",
     "AI DS/What Data represents vs What it hides.md",
-    "AI DS/AIDS NotesHub.md",
     "AI DS/RAG - Retrieval Augmented Generation.md",
     "AI DS",
     "Technology/System Design/ Concepts/Basics.md",
